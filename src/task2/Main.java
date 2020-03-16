@@ -26,6 +26,6 @@ public class Main {
                 5, 100, 16, 66, 20, 50, 10
         };
 
-        int[] newPrices = decryptData(prices, 50, 1, 4);
+        int[] newPrices = decryptData(prices, 50, 1, 78);
     }
 }
